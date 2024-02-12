@@ -26,7 +26,7 @@
                             <manifest>
                                 <addClasspath>true</addClasspath>
                                 <classpathPrefix>lib/</classpathPrefix>
-                                <mainClass>com.Main.Main</mainClass>
+                                <mainClass>org.example.Main</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
