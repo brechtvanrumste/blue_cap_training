@@ -1,10 +1,18 @@
 package org.example;
-import java.io.File;  // Import the File class
-import java.io.FileNotFoundException;  // Import this class to handle errors
-import java.util.ArrayList;
-import java.util.Scanner; // Import the Scanner class to read text files
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
+@SpringBootApplication
+public class SpringBootRestApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootRestApplication.class, args);
+    }
+}
+
+/*
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -211,3 +219,4 @@ class Car{
     }
 
 }
+ */
