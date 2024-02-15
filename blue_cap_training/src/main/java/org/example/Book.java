@@ -17,6 +17,10 @@ public class Book {
     public Book(String name) {
         this.name = name;
     }
+
+    public Book() {
+
+    }
 // standard constructors
 
     public void setName(String name) {
