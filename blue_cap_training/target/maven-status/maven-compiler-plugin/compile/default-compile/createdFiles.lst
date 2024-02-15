@@ -1,0 +1,4 @@
+com/example/repository/BookRepository.class
+com/example/App.class
+com/example/services/BookService.class
+com/example/models/Book.class
