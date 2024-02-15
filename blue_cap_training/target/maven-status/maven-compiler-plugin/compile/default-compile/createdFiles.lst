@@ -1,8 +1,0 @@
-test/BookServiceUnitTest.class
-repository/BookRepository.class
-org/example/DriverManagerDataSource.class
-services/BookService.class
-org/example/WebConfig.class
-org/example/SpringBootRestApplication.class
-org/example/Book.class
-org/example/AppInitializer.class
