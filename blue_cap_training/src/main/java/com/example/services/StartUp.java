@@ -16,7 +16,7 @@ public class StartUp
         @Override
         public void onApplicationEvent(final ApplicationReadyEvent event) {
             try {
-                File myObj = new File("measurements.txt");
+                File myObj = new File("/Users/jf38739/training/blue_cap_training/blue_cap_training/src/main/resources/measurements.txt");
                 Scanner myReader = new Scanner(myObj);
                 int x =1;
                 String numberplate = null;
